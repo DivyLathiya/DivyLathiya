@@ -14,7 +14,7 @@
 
 - 👋 Hi, I’m @DivyLathiya aka QatiL.
 - 👀 I’m interested in making Website.
-- 🌱 I’m currently learning Data Structures and Algorithm,iOS,JavaScript.
+- 🌱 I’m currently learning Data Structures and Algorithm, iOS, JavaScript.
 - ⚡ Fun fact: Fun fact about me is I don't like to code😅.
 
 <!---
