@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DivyLathiya aka QatiL.
 - 👀 I’m interested in making Website.
-- 🌱 I’m currently learning Java,XML,PHP
+- 🌱 I’m currently learning iOS,JavaScript
 - ⚡ Fun fact: Fun fact about me is I don't like to code😅
 
 <!---
