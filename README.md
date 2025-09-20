@@ -14,6 +14,6 @@
 
 - 👋 Hi, I’m @DivyLathiya aka QatiL.
 - 👀 I’m interested in making Website.
-- 🌱 I’m currently learning .net, Flutter, Dart and Network Security.
+- 🌱 I’m currently learning .net, Dart and Network Security.
 - ⚡ Fun fact about me is I don't like to code😅.
 
