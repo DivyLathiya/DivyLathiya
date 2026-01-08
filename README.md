@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://github.com/AJ0070"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=808080&center=true&width=435&lines=Hi%2C+I%27m+Divy+Lathiya" alt="Typing SVG" /></a> </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AJ0070&label=Profile%20views&color=0e75b6&style=flat" alt="Divy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DivyLathiya&label=Profile%20views&color=0e75b6&style=flat" alt="Divy" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.dp_28._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divy-lathiya-01b8032aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
