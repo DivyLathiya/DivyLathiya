@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyLathiya&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
-- 👋 Hi, I’m @DivyLathiya aka QatiL.
+- 👋 Hi, I’m DivyLathiya aka QatiL.
 - 👀 I’m interested in making Website.
 - 🌱 I’m currently learning Blockchain Technologies, Compiler Design, Internet of Things and Web Security.
 - ⚡ Fun fact about me is I don't like to code😅.
